@@ -83,6 +83,7 @@ Fulfillment speeds were analyzed by cross-referencing Ship Mode against the calc
  * **Same Day:** Achieves an elite average delivery processing score of **0.04 days**, indicating instantaneous warehouse execution.
  * **First Class & Second Class:** Average **2.18 days** and **3.25 days** respectively, proving highly reliable for expedited tiers.
  * **Standard Class:** Operates at an average of **5.01 days**. While predictable, it stretches out to a maximum ceiling of **7 days** for certain remote regions.
+- ![Avg delivery days by Ship mode](https://github.com/abulaoyiowoicho-glitch/Global_Superstore_Sales_Analysis/blob/main/Avg%20delivery%20days%20by%20Ship%20mode.png)
 
 **E. Client Segment & Spatial Dynamics**
  * **Segment Dominance:** The **Consumer** base is the clear foundational anchor, generating **$1,148,061.00** across 5,101 transactions. The **Corporate** sector follows at **$688,494.10**, while **Home Office** accounts for **$424,982.20**.
