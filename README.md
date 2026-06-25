@@ -63,9 +63,9 @@ The store's total sales volume across the records translates into highly competi
 
 |Product Category|Total Sales ($)|Total Ordered Items|Average Order Value (AOV) ($)|
 |---|---|---|---|
-|Technology|827460|1813|456.40|
-|Furniture|728660|2078|350.65|
-|Office supplies|705420|5909|119.38|
+|Technology|827,4655.87|1,813|456.40|
+|Furniture|728,658.58|2,078|350.65|
+|Office supplies|705,422.33|5,909|119.38|
 
 **B. Sub-Category Granular Drivers**
 Peeling back the high-level categories reveals that a few specific sub-categories act as the true engines of revenue.
