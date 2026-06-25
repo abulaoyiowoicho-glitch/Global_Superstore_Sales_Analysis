@@ -87,6 +87,7 @@ Fulfillment speeds were analyzed by cross-referencing Ship Mode against the calc
 **E. Client Segment & Spatial Dynamics**
  * **Segment Dominance:** The **Consumer** base is the clear foundational anchor, generating **$1,148,061.00** across 5,101 transactions. The **Corporate** sector follows at **$688,494.10**, while **Home Office** accounts for **$424,982.20**.
  * **Geographic Concentrations:** The **West** ($710,219.68) and **East** ($669,518.73) regions stand out as the dominant revenue hubs, leaving the **Central** ($492,646.91) and **South** ($389,151.46) markets significantly under-indexed.
+- ![Sales by Region](https://github.com/abulaoyiowoicho-glitch/Global_Superstore_Sales_Analysis/blob/main/Sales%20by%20Region.png)
  
 # Insights from the Analysis
  * **The High-Volume Sub-Category Anchor:** Office Supplies generate over **60% of all transaction traffic** (5,909 orders). While their individual profit margins are smaller, they provide the continuous foot traffic and operational baseline that keeps the business stable.
