@@ -13,15 +13,16 @@ Specifically, this report is set to achieve the following goals:
 
 The dataset used for this analysis represents the transactional sales records from 2015 to 2018 for Global Superstore. Made up of 1900 rows and 18 columns, the columns contains information like, Row ID, Order ID, Order Date, Ship Date, Ship Mode (e.g., Standard Class, Second Class, First Class, Same Day), Customer ID, Customer Name, Customer Segment (Consumer, Corporate, Home Office), Country, City, State, Postal Code, Region, Product ID, Category (Furniture, Office Supplies, Technology), Sub-Category (e.g., Bookcases, Chairs, Binders, Labels, Paper), Product Name, Sales ($).
 
-**DATA ANALYSIS METHODOLOGY**
+## Data Analysis Methodology 
+
 The analysis followed a descriptive analytics approach aimed at understanding historical sales performance and identifying business trends.
 
 The methodology consisted of, Data Collection, Data Cleaning and Validation, Data Modeling, Exploratory Data Analysis, Dashboard Development in Power BI and Business Insight Generation, all focused on answering key business questions regarding sales performance, customer behavior, product performance, regional trends, and delivery efficiency.
 
-**DATA COLLECTION**
+## Data Collection 
 The Global Superstore sales performance dataset used, was obtained from Kaggle. The data obtained in Excel format, was transformed and imported into Microsoft Power BI for data modeling, analysis, and visualization.
 
-**DATA CLEANING**
+## Data Cleaning 
 Before analysis, the dataset underwent several cleaning and preprocessing procedures to improve data quality, consistency, and reliability, ensuring accurate reporting and meaningful insights. The data cleaning process was carried out using Microsoft Excel. The steps undertaken include:
 
 1. Date Format Standardization
@@ -47,7 +48,7 @@ The new field was used to evaluate shipping performance and delivery efficiency 
 The dataset was reviewed to ensure:
 Date fields contained valid dates, Numerical fields were stored as numbers, Postal codes were correctly assigned, Calculated delivery lead times were accurate.
 
-**DATA MODELING**
+## Data Modeling 
 After cleaning, the dataset was imported into Power BI. To facilitate time intelligence analysis, a Date Table was created in Power BI and linked to the sales table through the Order Date field.
 Additional date attributes were generated, including: 
 - Year
@@ -55,7 +56,7 @@ Additional date attributes were generated, including:
 - Month.
 This structure enabled advanced calculations such as, Previous Month Sales, Previous Year Sales, Year-over-Year Growth, Quarterly Comparisons.
 
-**ANALYSIS AND FINDINGS**
+## Analysis and Findings
 **A. Macroscopic Financial Metrics & Product Matrix**
 The store's total sales volume across the records translates into highly competitive performance metrics. When broken down by high-level categories, an intriguing dynamic emerged regarding volume versus value:
 
