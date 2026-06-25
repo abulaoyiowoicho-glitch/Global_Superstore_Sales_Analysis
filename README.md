@@ -54,6 +54,7 @@ Additional date attributes were generated, including:
 - Year
 - Quarter
 - Month.
+
 This structure enabled advanced calculations such as, Previous Month Sales, Previous Year Sales, Year-over-Year Growth, Quarterly Comparisons.
 
 ## Analysis and Findings
@@ -100,4 +101,4 @@ Fulfillment speeds were analyzed by cross-referencing Ship Mode against the calc
  * **Establish VIP Corporate Subscription Models:** Capitalize on the high average order value of the Corporate and Home Office segments by launching a business account tier that offers automated re-ordering on office supplies paired with discounted express shipping.
 
 # Conclusion
-The deep-dive analysis of the Global Superstore, reveals a robust retail operation experiencing strong late-stage revenue growth, culminating in a peak of **$722,052.02**. The business relies heavily on the Consumer segment and is anchored by major regional markets in the West and East. While the logistics network functions with impressive precision, there are clear opportunities to optimize shipping speeds. By implementing smarter cross-category product bundling, addressing underperforming regional markets like the South, and upgrading standard shipping workflows, the business can seamlessly convert its high sales volume into sustainable, long-term profit margins.
+The deep-dive analysis of the Global Superstore, reveals a robust retail operation experiencing a predictive strong late-stage revenue growth, culminating in a peak of **$722,052.02**. The business relies heavily on the Consumer segment and is anchored by major regional markets in the West and East. While the logistics network functions with impressive precision, there are clear opportunities to optimize shipping speeds. By implementing smarter cross-category product bundling, addressing underperforming regional markets like the South, and upgrading standard shipping workflows, the business can seamlessly convert its high sales volume into sustainable, long-term profit margins.
