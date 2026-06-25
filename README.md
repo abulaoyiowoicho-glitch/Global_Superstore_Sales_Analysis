@@ -73,6 +73,8 @@ Peeling back the high-level categories reveals that a few specific sub-categorie
  * **Phones** ($327,782.45) and **Chairs** ($322,822.73) lead individual sub-categories by a massive margin.
  * Lower-ticket inventory like **Storage** ($219,343.39) and **Binders** ($200,028.79) compensate for smaller price points with immense volume.
 
+![Category performance](https://github.com/abulaoyiowoicho-glitch/Global_Superstore_Sales_Analysis/blob/main/Category%20performance.png)
+
 **C. Macro-Growth Trajectory & Seasonality**
 The business has experienced strong, accelerating momentum over the tracked timeframe.
  * **2015–2016 Stagnation:** Revenue experienced a minor contraction of **4.2%**, dropping from $479,856.21 down to $459,436.01.
@@ -83,12 +85,14 @@ Fulfillment speeds were analyzed by cross-referencing Ship Mode against the calc
  * **Same Day:** Achieves an elite average delivery processing score of **0.04 days**, indicating instantaneous warehouse execution.
  * **First Class & Second Class:** Average **2.18 days** and **3.25 days** respectively, proving highly reliable for expedited tiers.
  * **Standard Class:** Operates at an average of **5.01 days**. While predictable, it stretches out to a maximum ceiling of **7 days** for certain remote regions.
-- ![Avg delivery days by Ship mode](https://github.com/abulaoyiowoicho-glitch/Global_Superstore_Sales_Analysis/blob/main/Avg%20delivery%20days%20by%20Ship%20mode.png)
+
+![Avg delivery days by Ship mode](https://github.com/abulaoyiowoicho-glitch/Global_Superstore_Sales_Analysis/blob/main/Avg%20delivery%20days%20by%20Ship%20mode.png)
 
 **E. Client Segment & Spatial Dynamics**
  * **Segment Dominance:** The **Consumer** base is the clear foundational anchor, generating **$1,148,061.00** across 5,101 transactions. The **Corporate** sector follows at **$688,494.10**, while **Home Office** accounts for **$424,982.20**.
  * **Geographic Concentrations:** The **West** ($710,219.68) and **East** ($669,518.73) regions stand out as the dominant revenue hubs, leaving the **Central** ($492,646.91) and **South** ($389,151.46) markets significantly under-indexed.
-- ![Sales by Region](https://github.com/abulaoyiowoicho-glitch/Global_Superstore_Sales_Analysis/blob/main/Sales%20by%20Region.png)
+
+ ![Sales by Region](https://github.com/abulaoyiowoicho-glitch/Global_Superstore_Sales_Analysis/blob/main/Sales%20by%20Region.png)
  
 # Insights from the Analysis
  * **The High-Volume Sub-Category Anchor:** Office Supplies generate over **60% of all transaction traffic** (5,909 orders). While their individual profit margins are smaller, they provide the continuous foot traffic and operational baseline that keeps the business stable.
