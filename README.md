@@ -1,11 +1,13 @@
 # Global_Superstore_Sales_Analysis
 
-Global Superstore is a huge retail store, based in the United States of America (USA). With a broad product catalogues, it is spread around 529 cites and 49 states in the country. These stores comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).  The objective of this analysis is to evaluate the historical transaction records of the retail store from 2015 to 2018. To uncover operational strengths, seasonal buying behaviors, and regional variations.
+Global Superstore is a huge retail store, based in the United States of America (USA). With a broad product catalogues, it is spread around 529 cites and 49 states in the country. These stores comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
+
+The objective of this analysis is to evaluate the historical transaction records of the retail store from 2015 to 2018. To uncover operational strengths, seasonal buying behaviors, and regional variations.
 Specifically, this report is set to achieve the following goals:
-To identify high-performing product categories, sub-categories, and regional markets based on gross sales.
-To analyze order fulfillment performance by tracking shipping choices and delivery lead times.
-To understand customer demographics and market segmentation to support targeted marketing strategies.
-To provide actionable recommendations to optimize supply chain efficiency and maximize revenue generation.
+- To identify high-performing product categories, sub-categories, and regional markets based on gross sales.
+- To analyze order fulfillment performance by tracking shipping choices and delivery lead times.
+- To understand customer demographics and market segmentation to support targeted marketing strategies.
+- To provide actionable recommendations to optimize supply chain efficiency and maximize revenue generation.
 
 DATA OVERVIEW
 The dataset used for this analysis represents the transactional sales records from 2015 to 2018 for Global Superstore. The data set is made up of 1900 rows and 18 columns. The columns contains information like, Row ID, Order ID, Order Date, Ship Date, Ship Mode (e.g., Standard Class, Second Class, First Class, Same Day), Customer ID, Customer Name, Customer Segment (Consumer, Corporate, Home Office), Country, City, State, Postal Code, Region, Product ID, Category (Furniture, Office Supplies, Technology), Sub-Category (e.g., Bookcases, Chairs, Binders, Labels, Paper), Product Name, Sales ($).
