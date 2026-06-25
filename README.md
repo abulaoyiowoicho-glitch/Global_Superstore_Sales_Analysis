@@ -80,6 +80,8 @@ The business has experienced strong, accelerating momentum over the tracked time
  * **2015–2016 Stagnation:** Revenue experienced a minor contraction of **4.2%**, dropping from $479,856.21 down to $459,436.01.
  * **2017–2018 Hyper-Growth:** The business pivoted into an aggressive upward trajectory. Sales jumped to **$600,192.55** in 2017, and is predicted to explode to **$722,052.02** by the close of the final year, marking an impressive **57.1% increase** in annual revenue over a 24-month sprint.
 
+![Total Sales each year](https://github.com/abulaoyiowoicho-glitch/Global_Superstore_Sales_Analysis/blob/main/Total%20Sales%20each%20year.png)
+
 **D. Operational & Supply Chain Efficiency**
 Fulfillment speeds were analyzed by cross-referencing Ship Mode against the calculated Delivery Lead Days. The logistical network operates under incredibly tight, predictable parameters:
  * **Same Day:** Achieves an elite average delivery processing score of **0.04 days**, indicating instantaneous warehouse execution.
