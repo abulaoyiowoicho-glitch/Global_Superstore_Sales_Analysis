@@ -1,7 +1,7 @@
 # Global_Superstore_Sales_Analysis
 
 Global Superstore is a huge retail store, based in the United States of America (USA). With a broad product catalogues, it is spread around 529 cites and 49 states in the country. These stores comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
-The objective of this analysis is to evaluate the historical transaction records of the retail store from 2015 to 2018. To uncover operational strengths, seasonal buying behaviors, and regional variations.
+1. The objective of this analysis is to evaluate the historical transaction records of the retail store from 2015 to 2018. To uncover operational strengths, seasonal buying behaviors, and regional variations.
 Specifically, this report is set to achieve the following goals:
 To identify high-performing product categories, sub-categories, and regional markets based on gross sales.
 To analyze order fulfillment performance by tracking shipping choices and delivery lead times.
