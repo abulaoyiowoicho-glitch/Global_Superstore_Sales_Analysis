@@ -9,7 +9,7 @@ Specifically, this report is set to achieve the following goals:
 - To understand customer demographics and market segmentation to support targeted marketing strategies.
 - To provide actionable recommendations to optimize supply chain efficiency and maximize revenue generation.
 
-**DATA OVERVIEW**
+## Data Overview 
 
 The dataset used for this analysis represents the transactional sales records from 2015 to 2018 for Global Superstore. Made up of 1900 rows and 18 columns, the columns contains information like, Row ID, Order ID, Order Date, Ship Date, Ship Mode (e.g., Standard Class, Second Class, First Class, Same Day), Customer ID, Customer Name, Customer Segment (Consumer, Corporate, Home Office), Country, City, State, Postal Code, Region, Product ID, Category (Furniture, Office Supplies, Technology), Sub-Category (e.g., Bookcases, Chairs, Binders, Labels, Paper), Product Name, Sales ($).
 
